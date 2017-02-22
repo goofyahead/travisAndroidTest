@@ -21,6 +21,6 @@ public class MainActivityEspressoTest {
 
     @Test
     public void listGoesOverTheFold() {
-        onView(withText("Hello world!")).check(matches(isDisplayed()));
+        onView(withText("Hola")).check(matches(isDisplayed()));
     }
 }
