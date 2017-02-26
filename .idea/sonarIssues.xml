@@ -58,6 +58,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/androidTest/java/com/noon/home/HomeScreenActivityTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/androidTest/java/com/noon/registerlogin/LoginTest.java">
           <value>
             <set />
@@ -183,12 +188,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/productdetailpage/ProductDetailActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/productdetailpage/ProductDetailDataBindingActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/productdetailpage/ProductDetailDataBindingPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/productdetailpage/ProductDetailPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/productdetailpage/di/ProductDetailsDataBindingComponent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/res/drawable/ic_arrow_big.xml">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/res/layout/db_layout_product_preview.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/res/layout/db_pdp_fbt_wrapper.xml">
           <value>
             <set />
           </value>
