@@ -16,11 +16,12 @@ import static android.support.test.espresso.matcher.ViewMatchers.withText;
 @RunWith(AndroidJUnit4.class)
 @LargeTest
 public class MainActivityEspressoTest {
+
     @Rule
     public ActivityTestRule<MainActivity> mActivityRule = new ActivityTestRule(MainActivity.class);
 
     @Test
-    public void listGoesOverTheFold() {
+    public void textViewCheck() {
         onView(withText("Hola")).check(matches(isDisplayed()));
     }
 }

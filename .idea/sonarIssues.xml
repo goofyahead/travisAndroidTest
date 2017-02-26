@@ -18,6 +18,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/androidTest/java/cof/gof/antoidtravistest/ExampleInstrumentedTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/androidTest/java/cof/gof/antoidtravistest/MainActivityEspressoTest.java">
           <value>
             <set />
@@ -33,7 +38,197 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/test/java/cof/gof/antoidtravistest/RoboElectricUnitLikeTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/scripts/deploy.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/build/generated/source/apt/local/debug/com/noon/myaccount/DaggerMyAccountComponent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/build/generated/source/r/local/debug/com/noon/R.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/androidTest/java/com/noon/registerlogin/LoginTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/common/connection/DataSourceInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/common/connection/rest/FeatureFlagResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/common/connection/rest/RestApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/common/connection/rest/RestDataSource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/common/databinding/BaseItemDataBinder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/common/model/ProductPreviewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/myaccount/returnexchange/ReturnHistoryActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/myaccount/returnexchange/ReturnHistoryListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/myaccount/returnexchange/adapter/ReturnHistoryAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/myaccount/returnexchange/data/ReturnHistoryDataManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/myaccount/returnexchange/data/model/ReturnHistoryAttribute.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/myaccount/returnexchange/data/model/ReturnHistoryItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/myaccount/returnexchange/presenter/ReturnHistoryPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/myaccount/returnexchange/widget/ReturnItemHistoryView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/myaccount/returns/data/ReturnHistoryDataManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/myaccount/returns/data/ReturnHistoryItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/myaccount/returns/data/ReturnHistoryItemModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/myaccount/returns/data/ReturnHistoryModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/myaccount/returns/fragment/ReturnHistoryListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/myaccount/returns/presenter/ReturnHistoryDataManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/myaccount/returns/presenter/ReturnHistoryPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/myaccount/returns/widget/ReturnItemHistoryView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/java/com/noon/navigation/GlobalNavigator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/res/drawable/ic_arrow_big.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/res/layout/db_layout_product_preview.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/res/layout/return_item_history_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/res/values/strings-old.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/test/java/com/noon/cart/CartActivityTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/test/java/com/noon/myaccount/returnitem/ReturnItemPresenterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/app/src/test/java/com/noon/myaccount/returnitem/details/ReturnItemGetVariantsPresenterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../noon/consumer-platform-android/common/src/main/java/com/noon/common/model/product/ProductAttribute.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
           <value>
             <set />
           </value>
